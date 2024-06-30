@@ -1,7 +1,7 @@
 package main
 
 import (
-	databases "belajar-golang/cmd/ProductService/Databases"
+	"belajar-golang/cmd/ProductService/databases"
 	"belajar-golang/cmd/ProductService/routes"
 	"log"
 )

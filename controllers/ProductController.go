@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	databases "belajar-golang/cmd/ProductService/Databases"
+	"belajar-golang/cmd/ProductService/databases"
 	"belajar-golang/cmd/ProductService/models"
 	"context"
 	"net/http"
